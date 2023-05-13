@@ -7,7 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FractionCalculator", "Fract
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{8AB4824B-2BED-4D4C-8DA8-3E1F85E55B1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFraction", "..\TestFraction\TestFraction.csproj", "{2AF186D6-92F2-42FA-90A0-7DB6A241CC29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestFraction", "..\TestFraction\TestFraction.csproj", "{2AF186D6-92F2-42FA-90A0-7DB6A241CC29}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "FractionCalculatorSetup", "..\FractionCalculatorSetup\FractionCalculatorSetup.vdproj", "{C9DDCE79-C3E2-432C-BD4C-E7B4DFBB3354}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,6 +25,8 @@ Global
 		{2AF186D6-92F2-42FA-90A0-7DB6A241CC29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2AF186D6-92F2-42FA-90A0-7DB6A241CC29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2AF186D6-92F2-42FA-90A0-7DB6A241CC29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9DDCE79-C3E2-432C-BD4C-E7B4DFBB3354}.Debug|Any CPU.ActiveCfg = Debug
+		{C9DDCE79-C3E2-432C-BD4C-E7B4DFBB3354}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

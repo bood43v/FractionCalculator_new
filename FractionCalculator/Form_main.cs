@@ -93,6 +93,8 @@ namespace FractionCalculator
             textBox_num_res.Text = Convert.ToString(F3.GetNumerator());
             textBox_denom_res.Text = Convert.ToString(F3.GetDenominator());
         }
+
+
         /// Обработчик событий на нажатие кнопки "+"
         private void button_add_Click(object sender, EventArgs e)
         {
